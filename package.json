@@ -1,0 +1,22 @@
+{
+  "name": "reptar-table-of-contents",
+  "version": "1.0.0",
+  "description": "Add table of contents to a page using markdown-it-table-of-contents plugin for Markdown-it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlahmadiQ8/reptar-table-of-contents.git"
+  },
+  "author": "Mohammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlahmadiQ8/reptar-table-of-contents/issues"
+  },
+  "homepage": "https://github.com/AlahmadiQ8/reptar-table-of-contents#readme",
+  "dependencies": {
+    "markdown-it-table-of-contents": "^0.3.0"
+  }
+}
